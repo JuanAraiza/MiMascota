@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petgraman</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">55555555</string>
+    <string name="email">email@email.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
